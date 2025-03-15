@@ -6,15 +6,15 @@
 
 ## 完整项目源码
 
-如果您想查看或修改完整的源代码，可以克隆完整项目仓库：
+如果您想查看或修改完整的源代码，可以访问完整项目仓库：
+
+[完整项目源码](https://github.com/JulianChu00/Backstage-management-project)
 
 ```bash
+# 克隆完整项目仓库
 git clone https://github.com/JulianChu00/Backstage-management-project.git
-```
 
-安装依赖并启动开发服务器：
-
-```bash
+# 安装依赖并启动开发服务器
 cd Backstage-management-project
 npm install
 npm run serve
